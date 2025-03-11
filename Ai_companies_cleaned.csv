@@ -1,0 +1,93 @@
+Company Name,Description,Headquarters,Founded,Annual Revenue,Glassdoor Score
+Alibaba Cloud,Best for Big Data Analytics,"Hangzhou, China",2009,479500000.0,3.7
+DataRobot,Best for Automated Machine Learning,"Boston, Massachusetts",2012,338200000.0,3.7
+Google,Best for AI Development,"Mountain View, California",1998,305600000000.0,4.4
+Hugging Face,Best for Deploying AI Models in the Cloud,"Brooklyn, New York",2016,40000000.0,4.3
+H2O.ai,Best for Time Series Forecasting,"Mountain View, California",2011,69200000.0,3.1
+Rasa,Best for Managing Conversational AI Applications,"San Francisco, California",2016,18800000.0,3.9
+ActiveCampaign,Best for Email and Marketing Automation,"Chicago, Illinois",2003,195000000.0,3.7
+ClickUp,Best for Project Management,"San Diego, California",2017,158700000.0,3.4
+Freshworks,Best for Intelligent Customer Engagement,"Chennai, India",2010,596400000.0,3.8
+HubSpot,Best for Scaling Businesses,"Cambridge, Massachusetts",2006,2170000000.0,4.1
+monday.com,Best for Collaborative Work Management,"Tel-Aviv, Israel",2012,730000000.0,4.4
+Pipedrive,Best for Growing Small Businesses,"New York, United States",2010,189000000.0,3.6
+"Salesforce, Inc.",Best for Predictive Analytics,"San Francisco, California",1999,31400000000.0,4.1
+Zoho Corporation,Best for Smart Business Tools,"Chennai, India",1996,1000000000.0,4.5
+Anomali,Best for Threat Intelligence Aggregation,"Redwood City, California",2013,48500000.0,3.4
+CUJO AI,Best for Advanced Network Security,"El Segundo, California",2015,125900000.0,4.3
+Cybereason,Best for AI-Powered Endpoint Protection,"Boston, Massachusetts",2012,120000000.0,3.1
+Darktrace,Best for AI-Driven Cybersecurity,"Cambridge, United Kingdom",2013,544300000.0,3.3
+Deep Instinct,Best for Deep Learning-Based Threat Prevention and Detection,"New York, New York",2015,62500000.0,3.8
+Proofpoint,Best for Email Security and Compliance,"Sunnyvale, California",2002,1130000000.0,3.8
+SentinelOne,Best for Autonomous Response to Cyberthreats,"Mountain View, California",2013,663900000.0,4.8
+Tessian,Best for Preventing Human-Error Security Incidents,"London, United Kingdom",2013,21400000.0,3.9
+Vectra AI,Best for Threat Detection and Response,"San Jose, California",2011,121800000.0,4.3
+IBM (International Business Machines Corporation),Best for Data Preparation and Integration,"Armonk, New York",1911,61900000000.0,4.1
+Qlik,Best for Self-Service Business Intelligence Tools,"King of Prussia, Pennsylvania",1993,612700000.0,3.7
+Sisense,Best for Business Intelligence,"New York, New York",2004,140000000.0,3.2
+Splunk,Best for Business and Web Analytics,"San Francisco, California",2003,4208000000.0,3.9
+"ThoughtSpot, Inc",Best for Search-Driven Analytics,"Sunnyvale, California",2012,210000000.0,3.9
+Ataccama,Best for Versatile Data Management,"Toronto, Canada",2007,37700000.0,4.4
+Informatica,Best for Multi-Hybrid Workload Management,"Redwood City, California",1993,1570000000.0,3.9
+Oracle,Best for Large-Scale AI Model Training,"Austin, Texas",1977,49954000000.0,3.8
+Precisely,Best for Customized Data Solutions,"Burlington, Massachusetts",1968,525100000.0,4.1
+SAP,Best for Data-Driven Decision-Making,"Walldorf, Germany",1972,33540000000.0,4.3
+AIMLEAP Outsource BigData,Best for Expert Data Management Services,"Manhattan, New York",2012,12300000.0,4.6
+Analytics8,Best for Accelerating the Development of Data Solutions,"Chicago, Illinois",2002,34900000.0,4.7
+Domo,Best for Real-Time Enterprise Data Access,"American Fork, Utah",2010,237000000.0,4.3
+Microsoft,Best for Advanced Data Analysis and Predictive Modeling,"Redmond, Washington",1975,211000000000.0,4.3
+MicroStrategy,Best for Enterprise Analytics,"Tysons, Virginia",1989,496260000.0,3.7
+MonkeyLearn,Best for Extracting Insights from Unstructured Data Sources,"San Francisco, California",2014,5700000.0,4.3
+Amazon,Best for Managing and Analyzing Large Datasets,"Seattle, Washington; Arlington, Virginia",1994,574790000000.0,3.7
+Databricks,Best for Large-Scale Data Engineering,"San Francisco, California",2013,1500000000.0,4.4
+OpenText,Best for Advanced Data Management,"Waterloo, Canada",1991,4485000000.0,3.5
+Rubrik,Best for Proactive Threat Protection in VMware Workloads,"Palo Alto, California",2014,900000000.0,3.8
+Teradata,Best for Integrating Diverse Data Sources,"San Diego, California",1979,1830000000.0,3.8
+AlphaSense,Best for Intelligent Search Engine,"New York, New York",2011,2600000000.0,3.9
+Bizzabo,Best for Hybrid Event Management,"New York, New York",2011,36000000.0,3.7
+C3 AI,Best for Rapid AI Application Development,"Redwood City, California",2009,267000000.0,3.5
+Icertis,Best for End-to-End Contract Management,"Bellevue, Washington",2009,250000000.0,3.5
+People.ai,Best for Sales Coaching,"San Francisco, California",2016,55600000.0,4.4
+The Trade Desk,Best for Data-Driven Audience Targeting,"Ventura, California",2009,1950000000.0,3.8
+Brainly,Best for Personalized Learning Experiences,"Kraków, Poland and New York City, New York",2009,75000000.0,3.1
+Carnegie Learning,Best for Data-Driven Decision-Making for Educators and Administrators,"Pittsburgh, Pennsylvania",1998,22400000.0,3.7
+Harbinger Group,Best for Educational Content Creation,"Pune, India",1990,96600000.0,4.3
+AutoGrid,Best for Distributed Energy Optimization,"Redwood City, California",2011,25000000.0,4.3
+GE Vernova,Best for Wind Turbine Model,"Cambridge, Massachusets",2022,68000000000.0,3.8
+Siemens,Best for Industrial Automation and Digitalization,"Munich, Germany",1847,83650000000.0,4.2
+Via Science,Best for Web3-Native Security and Privacy,"Somerville, Massachusetts",2016,7400000.0,4.9
+Xanadu,Best for Quantum Computing,"Toronto, Canada",2016,87700000.0,4.4
+AIBrain,Best for Conversational AI,"Menlo Park, California",2012,5000000.0,2.9
+OpenAI,Best for Natural Language Processing (NLP) Research,"San Francisco, California",2015,2000000000.0,4.2
+SoundHound,Best for Music Recognition,"Santa Clara, California",2005,38000000.0,3.2
+Cleo,Best for Building Credit,"New York, New York",2016,35500000.0,3.8
+HighRadius,Best for Automating Accounts Receivable (AR) Processes,"Houston, Texas",2006,945200000.0,3.6
+Numerai,Best for Crowdsourcing AI Predictions,"San Francisco, California",2015,6000000.0,3.4
+Signifyd,Best for Chargeback Guarantee,"San Jose, California",2011,90000000.0,4.7
+Upstart,Best for Risk Assessment for Lenders,"San Mateo, California",2012,514000000.0,3.8
+Atomwise,Best for Drug Discovery,"San Francisco, California",2012,15700000.0,3.7
+Enlitic,Best for AI-Driven Medical Imaging Analysis Solutions,"Fort Collins, Colorado",2014,9200000.0,3.8
+PathAI,Best for Comprehensive Precision Pathology Solutions,"Boston, Massachusetts",2016,88800000.0,3.1
+Suki AI,Best for Clinical Documentation,"Redwood City, California",2017,25000000.0,4.4
+Tempus Labs,Best for Precision Medicine,"Chicago, Illinois",2015,231000000.0,3.2
+AVEVA,Best for Asset Performance,"Cambridge, United Kingdom",1967,1550000000.0,3.9
+Bright Machines,Best for Software-Defined Manufacturing,"San Francisco, California",2018,77700000.0,3.6
+Dataiku,Best for Democratizing AI,"New York, New York",2013,230000000.0,3.7
+DataRobot,Best for Automated Machine Learning (AutoML),"Boston, Massachusetts",2012,176000000.0,3.7
+DataToBiz,Best for Data-Driven Decision-Making,"London, United Kingdom",2018,5000000.0,4.8
+Domino Data Lab,Best for Predictive Maintenance,"London, UK",2013,18000000.0,3.7
+N5 Sensors,Best for Detecting Chemical Threats and Accidents,"Rockville, Maryland",2012,7000000.0,3.9
+SenseTime,Best for Facial Recognition,Hong Kong,2014,500000000.0,3.6
+Agility Robotics,Best for Developing Agile and Mobile Robots,"Tangent, Oregon",2015,14700000.0,3.7
+Boston Dynamics,Best for Research and Development,"Waltham, Massachusetts",1992,27600000.0,4.7
+Diligent Robotics,Best for Healthcare Data Integration and Analysis,"Austin, Texas",2017,34000000.0,3.1
+Honeybee Robotics,Best for Developing Robotic Systems for Challenging Environments,"Longmont, Colorado",1983,36200000.0,3.7
+iRobot,Best for Consumer and Military Robotic Solutions,"Bedford, Massachusetts",1990,1560000000.0,3.7
+Skydio,Best for Autonomous Drone Solutions,"San Mateo, California",2014,196200000.0,4.7
+"AEye, Inc.",Best for Adaptive Sensing,"Dublin, California",2013,2500000.0,4.1
+Anduril Industries,Best for Advanced Defense Technology,"Costa Mesa, California",2017,342000000.0,4.3
+Nuro,Best for Driverless Operation,"Mountain View, California",2016,438800000.0,3.8
+Pony.ai,Best for Robotruck Development,"Fremont, California",2016,100000000.0,3.4
+Tesla,Best for Electric Vehicles,"Austin, Texas",2003,96770000000.0,3.6
+Waymo,Best for Experience and Testing,"Mountain View, California",2016,1400000000.0,3.7
+Zoox,Best for Robotaxi Services,"Foster City, California",2014,897100000.0,3.9
